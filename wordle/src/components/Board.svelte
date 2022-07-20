@@ -17,7 +17,7 @@ import Cell from "./Cell.svelte";
 
 <style>
     .game {
-        margin: 50px auto;
+        margin: 15px auto;
         width: fit-content
 
     }

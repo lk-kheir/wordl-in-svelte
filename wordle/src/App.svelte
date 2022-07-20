@@ -14,8 +14,8 @@
         background-color: var(--bg);
         color: white;
         font-weight: bold;
-        padding: 15px;
-        font-size: 2em;
+        padding: 10px;
+        font-size: 2rem;
         text-align: center;
     }
 </style>

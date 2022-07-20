@@ -14,8 +14,8 @@
 <style>
 
     .cell {
-        width: 70px;
-        height: 70px;
+        width: 60px;
+        height: 60px;
         color: white;
         background-color: var(--bg);
         margin: 4px;
