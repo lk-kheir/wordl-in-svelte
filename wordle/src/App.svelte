@@ -3,7 +3,7 @@
     import KeyBoard from "./components/KeyBoard.svelte";
 </script>
 <main>
-	<nav>Worde Clone</nav>
+	<nav>Wordle Clone</nav>
 
     <Board/>
     <KeyBoard/>
